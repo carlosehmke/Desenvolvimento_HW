@@ -1,0 +1,63 @@
+LTspice 24.1.10 for Windows
+Circuit: D:\Arquivos\Desenvolvimento_HW\Project_0\LTspice\Amplificador_Instrumentacao_ADA4528_1.net
+Start Time: Thu Oct  2 20:25:36 2025
+solver = Normal
+Maximum thread count: 12
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-05
+Gmin = 1.6455e-06
+vernier = 0.5
+Gmin = 3.40827e-07
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+Gmin = 3.35553e-07
+vernier = 0.0208333
+vernier = 0.0277778
+Gmin = 3.17333e-07
+vernier = 0.037037
+vernier = 0.0493827
+Gmin = 2.90505e-07
+vernier = 0.0658435
+Gmin = 2.518e-07
+vernier = 0.0877914
+vernier = 0.117055
+Gmin = 1.9944e-07
+vernier = 0.156073
+vernier = 0.208098
+Gmin = 1.38187e-07
+vernier = 0.277464
+Gmin = 7.66843e-08
+vernier = 0.369952
+vernier = 0.493269
+Gmin = 2.97559e-08
+vernier = 0.657691
+vernier = 0.876922
+Gmin = 6.90742e-09
+vernier = 1
+Gmin = 8.40111e-10
+Gmin = 9.02063e-11
+Gmin = 9.68582e-12
+Gmin = 1.04001e-12
+Gmin = 1.1167e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+Total elapsed time: 0.105 seconds.
+
+Files loaded:
+D:\Arquivos\Desenvolvimento_HW\Project_0\LTspice\Amplificador_Instrumentacao_ADA4528_1.net
+C:\Users\carlo\AppData\Local\LTspice\lib\sub\ADI.lib
+
